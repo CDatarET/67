@@ -1,5 +1,4 @@
 # 67
-67 lol
 
-67676767676767676767
+Make 67 in terminal by typing 67
 ---
