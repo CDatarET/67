@@ -1,6 +1,6 @@
+#!/usr/bin/env python3
 import curses
 import time
-import math
 
 six = ["███", "█", "████", "█   █", " ███"]
 seven = ["█████", "    █", "   █", "  █", " █"]
