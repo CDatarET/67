@@ -42,4 +42,7 @@ def main(stdscr):
         if stdscr.getch() != -1:
             break
 
-curses.wrapper(main)
+try:
+    curses.wrapper(main)
+except KeyboardInterrupt:
+    pass
